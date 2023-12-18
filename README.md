@@ -22,6 +22,7 @@
   
 ### Encryption
 - **[VeraCrypt](https://github.com/veracrypt/VeraCrypt)** - is a widely-used open-source disk encryption software that helps secure your sensitive data by creating encrypted containers or encrypting entire drives. It offers strong encryption, is free to use, and provides a secure way to protect your files, folders, or entire storage devices from unauthorized access. VeraCrypt is known for its robust security features and cross-platform compatibility, making it a popular choice for safeguarding data.
+- **[Cryptomator](https://cryptomator.org/)** - Multi-platform transparent client-side encryption of your files in the cloud.
   
 ### Media
 - **[Obs Studio](https://github.com/obsproject/obs-studio)** - is a powerful open-source software for live streaming and recording. It's favored by content creators, gamers, and professionals to capture and stream video content. OBS Studio offers a user-friendly interface, a variety of features, and high customizability. This free and open-source software is cross-platform, making it accessible to a wide range of users. OBS Studio empowers users to broadcast live streams, record video, and create professional-quality content for a global audience.
@@ -69,6 +70,5 @@
 - **[Appflowy](https://github.com/AppFlowy-IO/AppFlowy)** - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
   
 ### Development
-- **[VScode](https://github.com/microsoft/vscode)** - is a widely used open-source code editor developed by Microsoft. It's designed for developers and offers a versatile, customizable, and user-friendly environment for coding and programming. With a rich ecosystem of extensions, it supports various programming languages, frameworks, and tools, making it a popular choice for software development and web development projects.
 - **[Atom](https://github.com/atom/atom)** - is an open-source code editor developed by GitHub. It is highly customizable and designed for software development, with features like a package manager and Git integration. Atom is known for its user-friendly interface and a large library of community-contributed packages, making it a popular choice for developers seeking a versatile and extensible code editing environment.
 - **[VSCodium](https://github.com/VSCodium/vscodium)** - is an open-source, unbranded alternative to Visual Studio Code (VS Code) with a focus on privacy.
