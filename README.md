@@ -4,6 +4,7 @@
 
 ## Map of the content
 - [Email clients](#email-clients)
+- [Temporaly emails](#temporaly-emails)
 - [Encryption](#encryption)
 - [Media](#media)
 - [Security](#security)
@@ -19,6 +20,10 @@
 ### Email clients
 - **[Thunderbird](https://www.thunderbird.net/)** - is a free and open-source email client and personal information manager (PIM) that helps users manage their emails, contacts, and calendars. It offers a user-friendly interface, strong security features, and extensive customization options through add-ons. Thunderbird is available for Windows, macOS, and Linux, making it a versatile choice for email management.
 - **[eM Client](https://github.com/emclient)** - is a open-source email and calendar management software known for its user-friendly interface.
+
+### Temporaly emails
+- **[Maildrop](https://maildrop.cc/)** - free service for getting temporaly email with custom address.
+- **[10minuteEmail](https://10minutemail.com/)** - free service for getting email box for 10 minutes, you can extend this time, if no email address will be updated.
   
 ### Encryption
 - **[VeraCrypt](https://github.com/veracrypt/VeraCrypt)** - is a widely-used open-source disk encryption software that helps secure your sensitive data by creating encrypted containers or encrypting entire drives. It offers strong encryption, is free to use, and provides a secure way to protect your files, folders, or entire storage devices from unauthorized access. VeraCrypt is known for its robust security features and cross-platform compatibility, making it a popular choice for safeguarding data.
