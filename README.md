@@ -11,11 +11,12 @@
 - [VPN](#vpn)
 - [Password Managers](#password-managers)
 - [Browsers](#browsers)
+- [Browser Extensions](#browser-extensions)
 - [Notes](#notes)
 - [Crypto Wallets](#crypto-wallets)
 - [Tools](#tools)
 - [Communication](#communication)
-- [Development](#developmemt)
+- [Development](#development)
 
 ### Email clients
 - **[Thunderbird](https://www.thunderbird.net/)** - is a free and open-source email client and personal information manager (PIM) that helps users manage their emails, contacts, and calendars. It offers a user-friendly interface, strong security features, and extensive customization options through add-ons. Thunderbird is available for Windows, macOS, and Linux, making it a versatile choice for email management.
@@ -51,6 +52,10 @@
 - **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** - is a widely-used open-source web browser known for its privacy-focused features and customization options. It prioritizes user security with strong privacy controls and a rich collection of add-ons for personalized browsing experiences.
 - **[DuckDuckGo](https://duckduckgo.com/)** - is a privacy-focused web browser designed to protect your online privacy. It prioritizes user security with built-in privacy features and a simplified, user-friendly interface for a safer browsing experience.
 - **[Tor Browser](https://www.torproject.org/download/)** - is a privacy-focused web browser that conceals your identity by routing internet traffic through the Tor network. It's designed for enhanced online anonymity and security.
+
+### Browser Extensions
+- **[NoScript](https://noscript.net/)** -  is Free Open Source Software (FOSS) providing extra protection for Firefox (on Android, too!), Chrome, Edge, Brave and other web browsers.
+- **[uBlock Origin](https://github.com/gorhill/uBlock/)** - an efficient blocker for Chromium and Firefox. Fast and lean. 
   
 ### Notes
 - **[Logseq](https://logseq.com/)** - is an open-source note-taking and knowledge management application designed for efficient, non-linear note-taking and organization. It empowers users to connect ideas, tasks, and information in a structured and intuitive manner, enhancing their ability to manage and recall knowledge.
