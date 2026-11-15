@@ -84,3 +84,4 @@
 ### Development
 - **[Atom](https://github.com/atom/atom)** - is an open-source code editor developed by GitHub. It is highly customizable and designed for software development, with features like a package manager and Git integration. Atom is known for its user-friendly interface and a large library of community-contributed packages, making it a popular choice for developers seeking a versatile and extensible code editing environment.
 - **[VSCodium](https://github.com/VSCodium/vscodium)** - is an open-source, unbranded alternative to Visual Studio Code (VS Code) with a focus on privacy.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
